@@ -45,8 +45,9 @@ margin:0px;
 }
 
 .content{
+    width: 25%;
     font-family: HelveticaNeue,Arial,"sans-serif"; 
-    font-size: 10px;
+    font-size:10px;
     height: 100%;
     width: 218.apx;
     position: static;
@@ -55,14 +56,13 @@ margin:0px;
 .wrapper img{
     padding-top: 20px;
     width: 100%;
-    object-fit: cover;
     height: 870px
 }
 .down-wrapper img{
     
     padding-top: 30px;
     height: 550.9px;
-    /* width: 345px; */
+   
    
 }
 .down-wrapper{
